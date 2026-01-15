@@ -84,6 +84,7 @@ From the project root directory, compile all source files (including dependencie
 
 ```bash
 javac *.java lib/*.java
+```
 
 ## Dependencies
 
