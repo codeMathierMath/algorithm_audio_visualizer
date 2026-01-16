@@ -76,7 +76,7 @@ serves as a foundation for further independent experimentation.
 
 ---
 
-## Running
+## Running the Program/s
 
 This project is written in Java and is intended to be run from the command line.
 
